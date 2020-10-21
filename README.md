@@ -13,10 +13,21 @@ Componentes customizáveis para VTEX legado.
 
 ## Instalação
 
-`yarn` para instalar os módulos
-`yarn storybook` para abrir o storybook
-`cd example && yarn start` para abir o playground
-`yarn build` para gerar os arquivos finais de produção
+```
+yarn para instalar os módulos
+```
+
+```
+yarn storybook para abrir o storybook
+```
+
+```
+cd example && yarn start para abir o playground
+```
+
+```
+yarn build para gerar os arquivos finais de produção
+```
 
 ## License
 
