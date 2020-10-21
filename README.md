@@ -2,31 +2,39 @@
 
 ![](https://img.shields.io/github/package-json/v/leonardoxoliveira/components-vtex-legacy)
 
-Componentes customizáveis para VTEX legado.
+Customizable components for legacy vtex
 
-## Principais Tecnologias
+## Main technologies
 
 - [TSDX](https://tsdx.io/)
 - [Storybook](https://storybook.js.org/)
 - [React](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 
-## Instalação
+## Development
+
+### Install
 
 ```
-**yarn** para instalar os módulos
+yarn
 ```
 
-```
-**yarn storybook** para abrir o storybook
-```
+### Storybook
 
 ```
-**cd example && yarn start** para abir o playground
+yarn storybook
 ```
 
+### Playground
+
 ```
-**yarn build** para gerar os arquivos finais de produção
+cd example && yarn start
+```
+
+### Build
+
+```
+yarn build
 ```
 
 ## License
